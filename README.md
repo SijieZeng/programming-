@@ -7,14 +7,14 @@ master plan （programming)
     
     [https://www.imooc.com/learn/177](https://www.imooc.com/learn/177)(5hr) 入门，看懂代码
     
-    - python for data analysis 熟悉pandas numpy matplotlib框架 (90hrs)，不必所有学完，学到够用解决实习问题即可解决
+    - python for data analysis 熟悉pandas numpy matplotlib框架 (90hrs)
         
         []()
         
     
      [https://seancheney.gitbook.io/python-for-data-analysis-2nd/di-01-zhang-zhun-bei-gong-zuo](https://seancheney.gitbook.io/python-for-data-analysis-2nd/di-01-zhang-zhun-bei-gong-zuo)
     
-    - python树图进阶 pandas和numpy可以选跟着这里先学，重点是学到能解决问题为止
+    - python树图进阶 pandas和numpy可以选跟着这里先学
         
         [Python-Basis-Notes](https://github.com/zhiyu1998/Python-Basis-Notes)
         
